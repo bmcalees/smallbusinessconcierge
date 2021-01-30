@@ -160,6 +160,12 @@ h2{
 }
 
 /* SECTION ----  small business PARALAX ----- */
+.section-present-banner .parallax {
+    /* The image used */
+    background-image: url("../images/man-w-audience.jpg");
+}
+
+/* SECTION ----  small business PARALAX ----- */
 .section-meeting-room-banner .parallax {
     /* The image used */
     background-image: url("../images/meeting-room-banner.jpg");
