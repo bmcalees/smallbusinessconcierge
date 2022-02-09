@@ -235,6 +235,12 @@ ol {
     background-image: url("../images/people-working-2.jfif");
 }
 
+/* SECTION ----  women working PARALAX ----- */
+.section-women-working-banner .parallax {
+    /* The image used */
+    background-image: url("../images/women-working.jpg");
+}
+
 /* SECTION ---- ABOUT ----- */
 .btn-primary{
     padding:16px;
